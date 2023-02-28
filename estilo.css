@@ -1,0 +1,33 @@
+body{
+	background-color: #736f70;
+	padding:0;
+  margin:0;
+}
+#encabezado{
+	width: 100%;
+	background-color:#0520c9 ;
+	margin:auto;
+	text-align: center;
+	overflow:hidden;
+	color: #ffffff ;
+
+}
+h2 {
+	width: 600px;
+	background-color: #fe0618;
+	border-radius: 10px;
+	color: #ffffff ;
+}
+img{
+	width: 600px;
+	height: 300px;
+
+}
+footer{
+	width: 100%;
+	background-color:#000f26 ;
+	color: white;
+	margin:auto;
+	overflow:hidden;
+	text-align: center;
+}
